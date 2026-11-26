@@ -1,1 +1,1 @@
-Bread, cake, coffee
+Bread 3, cake 4, coffee 2
