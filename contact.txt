@@ -1,1 +1,1 @@
-Email: hello@bakery.example
+Email: orders@bakery.example
